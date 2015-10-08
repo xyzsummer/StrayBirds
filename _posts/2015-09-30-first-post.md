@@ -1,6 +1,6 @@
 ---
-layout:default
-title:开始写博客
+layout:  default
+title:  开始写博客
 ---
 
 ##开始
